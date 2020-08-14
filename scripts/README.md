@@ -1,5 +1,7 @@
 # [Workshop Name][Date]
 
+Workshop Recording: (__insert-link-here__)
+
 In this workshop, we learned about [Workshop Name]. Specifically, we learned **main idea 1**, **main idea 2**, and **main idea 3**.
 
 We used this to:
@@ -12,6 +14,7 @@ We used this to:
 ## Download Information:
 
 [Tool 1]
+
 For Mac users: (download instructions) (link)
 
 For Windows: (download instructions) (link)
@@ -46,8 +49,10 @@ For that, we use **main idea 1** and **main idea 2**.
 example code here
 ```
 
-## Resources:
+## Simple Resources:
 
-Slides: (__insert-link-here__)
+**Main Idea 1**:
 
-Recording: (__insert-link-here__)
+Site #1: (link)
+
+Site #1: (link)

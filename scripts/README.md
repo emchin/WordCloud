@@ -27,7 +27,7 @@ For Windows: (download instructions) (link)
 In Hack School, we will be using [Tool 1] to (purpose for project).
 
 
-## Main Idea 1
+### Main Idea 1
 
 Main Idea 1 is (explanation).
 
@@ -41,7 +41,9 @@ Some examples of Main Idea 1 are:
 example code here
 ```
 
-## Task 1
+main ideas, ideas, etc. etc. etc.
+
+### Task 1
 
 We want to do (insert task here) for our Pokemon generator.
 

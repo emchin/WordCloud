@@ -3,18 +3,18 @@
 In this workshop, we learned about [Workshop Name]. Specifically, we learned **main idea 1**, **main idea 2**, and **main idea 3**.
 
 We used this to:
-- Accomplish this task
-- Accomplish this other task
-- Do this other cool thing
-- (Optional) Do something fun
+- [x] Accomplish this task
+- [x] Accomplish this other task
+- [x] Do this other cool thing
+- [ ] (Optional) Do something fun
 
 
 ## Download Information:
 
 [Tool 1]
-For Mac users: (download instructions) [link]
+For Mac users: (download instructions) (link)
 
-For Windows: (download instructions) [link]
+For Windows: (download instructions) (link)
 
 
 ## What is [Workshop Name]?
@@ -24,15 +24,17 @@ For Windows: (download instructions) [link]
 In Hack School, we will use [Tool 1] to (purpose for project).
 
 
-## Basics of [Workshop Name]:
+## Main Idea 1
 
-(Idea #1)
+We do/manage/implement Main Idea 1 using:
 
-[Idea #1 is a __. It takes (input) and (does output).]
+(Code Command #1)
 
-'''
-Example code here
-'''
+[Code Command #1 is a __. It takes (input) and (does output).]
+
+```
+insert example code here
+```
 
 
 ## Resources:

@@ -29,9 +29,11 @@ In Hack School, we will be using [Tool 1] to (purpose for project).
 
 ## Main Idea 1
 
-We do/manage/implement Main Idea 1 using:
+Main Idea 1 is (explanation).
 
-`(Code Command #1)`
+Some examples of Main Idea 1 are:
+
+#### `(Code Command #1)`
 
 `Code Command #1` is a (insert descriptor here). It takes (input) and (does output).
 

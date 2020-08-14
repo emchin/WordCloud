@@ -4,14 +4,14 @@ Workshop Recording: (__insert-link-here__)
 
 In this workshop, we learned about [Workshop Name]. Specifically, we learned **main idea 1**, **main idea 2**, and **main idea 3**.
 
-We used this to:
+We used these ideas to to:
 - [x] Task 1
 - [x] Task 2
 - [x] Task 3
 - [ ] (Optional) Task 4
 
 
-## Download Information:
+## Downloads:
 
 [Tool 1]
 
@@ -57,4 +57,4 @@ example code here
 
 Site #1: (link)
 
-Site #1: (link)
+Site #2: (link)

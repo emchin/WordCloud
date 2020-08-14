@@ -41,7 +41,8 @@ Some examples of Main Idea 1 are:
 example code here
 ```
 
-main ideas, ideas, etc. etc. etc.
+
+## Implementation
 
 ### Task 1
 
